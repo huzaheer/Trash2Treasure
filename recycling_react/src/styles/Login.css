@@ -1,0 +1,24 @@
+.login {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 200px;
+    font-size: larger;
+}
+
+.text{
+    font-size: large;
+}
+
+.image{
+    padding-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.link{
+    font-size: large; 
+    color: #154360;
+}
+

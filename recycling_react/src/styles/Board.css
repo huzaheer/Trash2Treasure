@@ -1,0 +1,53 @@
+.board {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+
+.board h1{
+    font-size: xxx-large;
+    font-weight: bold;
+}
+
+.board h2{
+    padding-top: 20px;
+}
+
+.newLine{
+    border-bottom: 3px solid black;
+    padding-top: 45px;
+}
+
+.myButton{
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-size: large;
+    font-weight: bold; 
+    background-color: #154360;
+    border-radius: 3px;
+    border: 2px solid white;
+}
+
+.board button:hover {
+    background-color: #0b2130;
+    cursor: pointer;
+}
+
+#profile .flex{
+    display: flex;
+    justify-content: space-between;
+    gap: 1em;
+    text-align: left;
+    margin-bottom: 2em;
+}
+
+#profile .flex .item{
+    display: flex;
+    align-items: center;
+}
+
+#profile .flex .info{
+   padding: 1em;
+}

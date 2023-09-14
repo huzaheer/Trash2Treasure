@@ -1,0 +1,22 @@
+# MySQL. Versions 5.5.8 and up are supported.
+
+# Sets the default configuration of the database
+default: &default
+  adapter: mysql2
+  encoding: utf8mb4
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  # The databse name, username, password, and host are defined in the docker compose file
+  database: <%= ENV['DB_NAME'] %>
+  username: <%= ENV['DB_USER'] %>
+  password: <%= ENV['DB_PASSWORD'] %> 
+  host: <%= ENV['DB_HOST'] %>
+
+# The environment configuration for development, test, and production are the same as the default configuration
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+production:
+  <<: *default

@@ -1,0 +1,19 @@
+/* Grid.css */
+
+/* Style for the container */
+.container {
+  background-color: #f0f0f0;
+  padding-left: 30px;
+}
+
+/* Style for rows */
+.Row {
+  margin: 10px 0;
+}
+
+/* Style for columns */
+.Col {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
