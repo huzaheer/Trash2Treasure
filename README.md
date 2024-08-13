@@ -1,6 +1,8 @@
 ## **Overview**
 
-![App Logo](/gallery.jpg)
+<p align="center">
+  <img src="https://github.com/huzaheer/Trash2Treasure/blob/main/images/gallery.jpg" alt="Trash2Treasure Logo" width="300"/>
+</p>
 
 Trash2Treasure (T2T) is a student-led initiative intended to incentivize waste reduction and enrich recycling efforts within Duke University’s West Campus dormitories. T2T encourages individuals to actively participate in Duke’s sustainability initiatives by offering small incentives as rewards for the dorms (and residents) who are the most successful in achieving their environmental goals. T2T is operated through this webpage, which, along with a fully-functioning database and API, was created fully from scratch by our team.
 
