@@ -39,4 +39,4 @@ For the tech stack, we used React.js for the front-end, Ruby on Rails for the ba
 
 ## **Future Considerations**
 
-Future considerations include integrating Duke NetID Login, increasing verification and punitive measures, and expanding to East Campus/Swift. 
+Most of us had little to no experience in software development, especially front-end development at the time of making this website. As a result, we feel proud of building a simple but functional app. Future considerations include integrating Duke NetID Login, increasing verification and punitive measures, and expanding to East Campus/Swift. 
